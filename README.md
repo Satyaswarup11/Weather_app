@@ -4,7 +4,8 @@
 This is a simple web application that provides weather information and user management functionalities. The app is built using React, Firebase for authentication and database, and Axios for fetching weather data from an API.
 
 ## Features
-1. Login (with Firebase Auth): Users can log in using their email and password. Firebase authentication is used for secure login.
+
+1.Login (with Firebase Auth): Users can log in using their email and password. Firebase authentication is used for secure login.
 
 2.Homepage with Weather Information: The homepage displays weather information for a specified city using the OpenWeatherMap API.
 
@@ -69,7 +70,7 @@ npm start
 ```
 Open your browser and navigate to http://localhost:3000.
 
-Dependencies
+## Dependencies
  -axios: Used for making HTTP requests.
  -firebase: Firebase SDK for authentication and Firestore.
  -react-router-dom: Library for declarative routing in React.
