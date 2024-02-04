@@ -25,12 +25,12 @@ Before running the application, make sure you have the following dependencies in
 1.Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Satyaswarup11/Weather_app.git
 ```
 2. Navigate to the project directory:
 
 ```bash
-cd weather-app
+cd Weather-app
 ```
 3.Install the required npm packages:
 
