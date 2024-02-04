@@ -1,5 +1,5 @@
 
-#Weather App with Firebase Integration
+# Weather App with Firebase Integration
 
 This is a simple web application that provides weather information and user management functionalities. The app is built using React, Firebase for authentication and database, and Axios for fetching weather data from an API.
 
